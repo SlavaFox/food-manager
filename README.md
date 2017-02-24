@@ -29,6 +29,6 @@ After that you need to find folder `"targer"`.
 In this folder you must open the command line and execute next commands:
 
 ```sh
-$ java -jar food-manager-1.0-jar-with-dependencies.jar C:/Users/Viacheslav_Belymenko/Desktop/foodmanager
+$ java -jar food-manager-1.0-jar-with-dependencies.jar C:/Users/Viacheslav_Belymenko/Desktop/foodmanager/file
 ```
 C:/Users/Viacheslav_Belymenko/Desktop/foodmanager/file - application path to folder with `drink-category.json`, `food-category.json`, `purchase.json` files.
